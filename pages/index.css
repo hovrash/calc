@@ -9,3 +9,5 @@
 @import url(../blocks/span/span_red.css);
 @import url(../blocks/form/__output/form__output.css);
 @import url(../blocks/form/__output-result/form__output-result.css);
+@import url(../vendor/fonts.css);
+@import url(../vendor/normalize.css);
