@@ -8,6 +8,7 @@
     margin: auto;
     border: none;
     cursor: pointer;
+    text-align: center;
 }
 
 .form__button:hover {
