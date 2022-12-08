@@ -11,3 +11,5 @@
 @import url(../blocks/form/__output-result/form__output-result.css);
 @import url(../vendor/fonts.css);
 @import url(../vendor/normalize.css);
+@import url(../blocks/form/__output-result/type/form__output-result_type_answer.css);
+@import url(../blocks/form/__button/_type/form__button_type_dec.css);

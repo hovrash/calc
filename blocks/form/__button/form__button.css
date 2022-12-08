@@ -13,8 +13,8 @@
 
 .form__button:hover {
     opacity: .9;
-    border: 1px solid rgba(252, 252, 252, .2);  
 }
 .form__button:active {
-    border: 1px solid  rgba(252, 252, 252, .5);
+    /*border: 1px solid  rgba(252, 252, 252, .5);*/
+    transform: translate(.5px, .5px);
 }

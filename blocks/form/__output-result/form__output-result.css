@@ -1,8 +1,11 @@
 .form__output-result {
-    font-size: 30px;
+    font-size: 40px;
     color: rgb(230, 230, 230);
     padding: 0;
     margin: 0;
-    max-width: 100%;
+    max-width: 200px;
     font-family: 'Digital';
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
 }

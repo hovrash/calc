@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-<html leng="ru"
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -8,12 +7,15 @@
   </head>
   <body class="page">
     <form class="form">
-      <h1 class="form__title">Калькулятор</h1>
+      <!--<h1 class="form__title">Дашулятор</h1>-->
       <div class="form__output">
         <h2 class="form__output-result">0</h2>
       </div>
       <div class="form__buttons">
-        <button id="cancel" class="form__button form__button_type_dec form__button_type_four span_red">AC</button>
+        <button id="cancel" class="form__button span_red">AC</button>
+        <button id="percent" class="form__button form__button_type_dec">%</button>
+        <button id="bracketL" class="form__button form__button_type_dec">(</button>
+        <button id="bracketR" class="form__button form__button_type_dec">)</button>
         <button id="seven" class="form__button">7</button>
         <button id="eight" class="form__button">8</button>
         <button id="nine" class="form__button">9</button>
@@ -26,7 +28,7 @@
         <button id="two" class="form__button">2</button>
         <button id="three" class="form__button">3</button>
         <button id="minus" class="form__button form__button_type_dec">-</button>
-        <button id="tochka" class="form__button form__button_type_dec">.</button>
+        <button id="tochka" class="form__button">.</button>
         <button id="zero" class="form__button form__button_type_two">0</button>
         <button id="plus" class="form__button form__button_type_dec">+</button>
         <button id="ravno" class="form__button form__button_type_dec form__button_type_four span_grey">=</button>

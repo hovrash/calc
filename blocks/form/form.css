@@ -1,11 +1,11 @@
 .form {
-    background: linear-gradient(90deg, rgba(52,52,52,1) 0%, rgba(79,79,79,1) 50%, rgba(52,52,52,1) 100%);
-    background-color: #575757;
-    max-width: 250px;
+    background-color: #2e2e2e;
+    max-width: 230px;
     margin: 50px auto;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     border-radius: 20px;
+    box-shadow: 0 0 80px 1px #333333;
 }

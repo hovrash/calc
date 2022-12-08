@@ -1,8 +1,13 @@
 .form__output {
+    margin-top: 25px;
     width: 200px;
-    height: 30px;
+    height: 40px;
     background-color: #000;
     padding: 10px;
-    text-align: right;
+    /*text-align: right;*/
     overflow: hidden;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    border-radius: 5px;
 }
