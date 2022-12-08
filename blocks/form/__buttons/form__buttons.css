@@ -1,0 +1,9 @@
+.form__buttons {
+    display: grid;
+    grid-template-columns: repeat(4, auto);
+    gap: 5px;
+    max-width: 240px;
+    margin: 10px auto 20px;
+    justify-content: center;
+    align-items: center;
+}

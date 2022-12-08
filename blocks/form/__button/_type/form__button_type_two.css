@@ -1,0 +1,5 @@
+.form__button_type_two {
+    grid-column: span 2;
+    width: 100px;
+    border-radius: 25px;
+}

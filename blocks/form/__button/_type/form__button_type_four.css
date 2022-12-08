@@ -1,0 +1,5 @@
+.form__button_type_four {
+    grid-column: span 4;
+    width: 100%;
+    border-radius: 25px;
+}
